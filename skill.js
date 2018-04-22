@@ -86,7 +86,7 @@ function getcolor(color) {
 }
 function k(a) {
     var c = ["#830300", "#026e00", "#7BC8A4", "#93648D", "#404040"],
-        d = [-.1, -.05, 0];
+        d = [-0.3, -0.1, 0];
     if (1 == a.depth) {
         var e = c[coloralternative % 5];
         return coloralternative++, e
