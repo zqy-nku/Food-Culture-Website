@@ -189,10 +189,10 @@ input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
     position: relative;
 	left: 0;
     width: 500%;
-	height: 110%;
+	height: 120%;
 	list-style: none;
-    margin: -10px;
-	padding: 10px;
+    margin: -40px;
+	padding: -10px;
     -webkit-transition: left ease-in 0.8s;
     -moz-transition: left ease-in 0.8s;
     -o-transition: left ease-in 0.8s;
