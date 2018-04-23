@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa53561-10d4-4dda-9884-94799bc8466c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/slide_style.css" afterPath="$PROJECT_DIR$/css/slide_style.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/section2.html" afterPath="$PROJECT_DIR$/section2.html" />
-      <change beforePath="$PROJECT_DIR$/section2_1.html" afterPath="$PROJECT_DIR$/section2_1.html" />
-      <change beforePath="$PROJECT_DIR$/section2_2.html" afterPath="$PROJECT_DIR$/section2_2.html" />
-      <change beforePath="$PROJECT_DIR$/section3.html" afterPath="$PROJECT_DIR$/section3.html" />
-      <change beforePath="$PROJECT_DIR$/section3_1.html" afterPath="$PROJECT_DIR$/section3_1.html" />
-      <change beforePath="$PROJECT_DIR$/section4.html" afterPath="$PROJECT_DIR$/section4.html" />
-    </list>
+    <list default="true" id="5fa53561-10d4-4dda-9884-94799bc8466c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +41,8 @@
       <file leaf-file-name="section3_1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/section3_1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="102" column="188" lean-forward="false" selection-start-line="102" selection-start-column="188" selection-end-line="102" selection-end-column="188" />
+            <state relative-caret-position="353">
+              <caret line="101" column="35" lean-forward="false" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -708,8 +698,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/section3_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="102" column="188" lean-forward="false" selection-start-line="102" selection-start-column="188" selection-end-line="102" selection-end-column="188" />
+        <state relative-caret-position="353">
+          <caret line="101" column="35" lean-forward="false" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
           <folding />
         </state>
       </provider>
