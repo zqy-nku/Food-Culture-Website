@@ -28,13 +28,13 @@ To present the countries that supply the most imported food and the states produ
 
 IS THE FOOD NUTRITIOUS: A fixed menu on the top to skip to other detailed parts.
 
-Investigate relation between American food and nutrition through three subsection.
+Investigate relation between American food and nutrition through three subsection: Food Nutrition, Food Intake By Groups & Sources, and Obesity Rate in Each State.
 
 =============== Contact Information ===============
 
 *** Footer of each page ***
 
-There is a footer on the button of each page to present the authors' contact information, and the QR code of project report.
+There is a footer on the bottom of each page to present the authors' contact information, and the QR code of project report.
 
 Updated on 25/04/2018
 
