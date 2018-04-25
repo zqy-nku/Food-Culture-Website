@@ -44,3 +44,28 @@ Updated on 25/04/2018
 
 https://public.tableau.com/profile/jadis#!/vizhome/Book1-1_20/Yelp-MapviewofUSdatapoints?publish=yes
 
+https://public.tableau.com/profile/jadis#!/vizhome/Book1-1_20/Yelp-Howeachstatedifferswhentheirpeopleratefoodrestaurant?publish=yes
+
+https://public.tableau.com/profile/jadis#!/vizhome/Book2_20827/Yelp-MostcommonfoodrestaurantinUS-Wordclouddashboard?publish=yes
+
+https://public.tableau.com/profile/jadis#!/vizhome/Book2_20827/Yelp-MostcommonfoodrestaurantinUSdashboard?publish=yes
+
+---Since the datasets used in this section are too large, some visualizations can't be saved on Tableau Public Server, so we present the screenshots of those visualizations.
+
+*** WHERE DOES FOOD COME FROM ***
+
+https://public.tableau.com/profile/viola8138#!/vizhome/importsourcecountrydifferentyear_0/Dashboard1
+
+https://public.tableau.com/profile/koala6011#!/vizhome/linefoodimportvolumesfor14categoriesfrom1999-2014/Dashboard1
+
+https://public.tableau.com/profile/koala6011#!/vizhome/importsourcecountrydifferentyear/Dashboard1
+
+*** IS THE FOOD NUTRITIOUS ***
+
+https://public.tableau.com/profile/viola8138#!/vizhome/foodsourcesgroup/3
+
+https://public.tableau.com/profile/viola8138#!/vizhome/diabetespercentage1/1
+
+https://public.tableau.com/profile/jadis#!/vizhome/caloriesintakebycatogries1_1/Dashboard4
+
+https://public.tableau.com/profile/jadis#!/vizhome/caloriesintakebycatogries1_0/3
