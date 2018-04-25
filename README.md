@@ -1,6 +1,6 @@
 The Food Culture In The United State
 
-Exploring The Food Culture In The United State Through Multiple Visualization Techniques: https://zqy-nku.github.io/
+Explore The Food Culture In The United State Through Multiple Visualization Techniques: https://zqy-nku.github.io/
 
 =============== Project Overview ===============
 
